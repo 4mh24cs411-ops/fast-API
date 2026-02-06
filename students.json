@@ -1,0 +1,17 @@
+{
+  "students": {
+    "1": {
+      "name": "Prasad",
+      "email": "guru@gmail.com",
+      "age": 22,
+      "course": "cs"
+    },
+    "2": {
+      "name": "Prasad",
+      "email": "guru@gmail.com",
+      "age": 22,
+      "course": "cs"
+    }
+  },
+  "next_id": 3
+}
